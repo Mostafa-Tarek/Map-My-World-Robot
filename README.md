@@ -1,9 +1,12 @@
 # Map My World
 For this project, I used ROS pkg `rtabmap_ros pkg`  which is a ROS wrapper (API) for interacting with rtabmap to generate a `2D` occupancy grid and `3D` octomap from a provided simulated environment with best solution for (`SLAM`) to develop mobile robots .
 
+**2D Map and 3D Map**
 
 ![2d map and 3d map](/images/RTAB.png)
 
+
+**Occupancy_Grid_Mapping**
 
 ![Occupancy_Grid_3d](/images/Occupancy_Grid_Mapping.png)
 
