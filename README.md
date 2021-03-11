@@ -1,5 +1,6 @@
 # Map My World
-The goal of this project is to build 2D & 3D Map of the env using ROS pkg `rtabmap_ros pkg`  which is a ROS wrapper (API) for interacting with rtabmap to generate a `2D` occupancy grid and `3D` octomap from a provided simulated environment with best solution for (`SLAM`) to develop mobile robots .
+The goal of this project is that robot moving indoors, mapping the surroundings and localizing itself using ROS pkg `rtabmap_ros pkg`  which is a ROS wrapper (API) for interacting with rtabmap to generate a `2D` occupancy grid and `3D` octomap from a provided simulated environment with best solution for (`SLAM`) to develop mobile robots.
+RTAB-Map with our own robots will lead to a solid foundation for mapping and localization well.
 
 **2D Map and 3D Map**
 
@@ -14,7 +15,7 @@ The goal of this project is to build 2D & 3D Map of the env using ROS pkg `rtabm
 
 #### This project is intended to be completed in the Udacity Workspace or on Jetson TX2 and might encounter performance issue on personal laptop or the VM.
 
-Because RTAB-Map 's speed and memory management  for information analysis and the quality of the documentation. Being able to leverage RTAB-Map with our own robots will lead to a solid foundation for mapping and localization well.
+Because RTAB-Map 's speed and memory management  for information analysis and the quality of the documentation.
 
 # Project Setup
 To begin, several ROS packages need to be installed as dependencies:
