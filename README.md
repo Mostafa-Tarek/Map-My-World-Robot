@@ -1,6 +1,6 @@
 # Map My World
 The goal of this project is that robot moving indoors, mapping the surroundings and localizing itself using ROS pkg `rtabmap_ros pkg`  which is a ROS wrapper (API) for interacting with rtabmap to generate a `2D` occupancy grid and `3D` octomap from a provided simulated environment with best solution for (`SLAM`) to develop mobile robots.
-RTAB-Map with our own robots will lead to a solid foundation for mapping and localization well.
+RTAB-Map lead to a solid foundation for mapping and localization well.
 
 **2D Map and 3D Map**
 
