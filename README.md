@@ -5,7 +5,7 @@ For this project, I used ROS pkg `rtabmap_ros pkg`  which is a ROS wrapper (API)
 ![2d map and 3d map](/images/RTAB.png)
 
 
-![Occupancy_Grid_3d](/images/Occupancy_Grid_3d points.png)
+![Occupancy_Grid_3d](/images/Occupancy_Grid_Mapping.png)
 
 
 
