@@ -63,6 +63,6 @@ You could also open the database I already generated in this project. The number
 
 * you have to drive your robot with low velocity while moving  in a straight line and a little bit when you spinnig (rotating).
 
-* you increase the number of your features in your Env.
+* increasing the number of your features in your Env.
 
 * beside tuning the rtabmap-pkg
